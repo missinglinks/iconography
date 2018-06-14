@@ -1,0 +1,24 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_214",
+      "label": "Schwarzfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_214"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_214",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q190103",
+        "https://www.wikidata.org/wiki/Q647160",
+        "https://www.wikidata.org/wiki/Q756884",
+        "https://www.wikidata.org/wiki/Q207427",
+        "https://www.wikidata.org/wiki/Q677655"
+      ],
+      "type": "VisualItem"
+    }
+  ]
+}
