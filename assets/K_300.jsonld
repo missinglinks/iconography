@@ -1,0 +1,17 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_300",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_300",
+      "label": "Rotfiguriger attischer Kantharos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_300"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}

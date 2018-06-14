@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_223",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q580733"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_223",
+      "label": "Schwarzfigurige attische Kleinmeisterschale (Randschlae)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_223"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}

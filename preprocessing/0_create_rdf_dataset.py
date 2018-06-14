@@ -1,4 +1,5 @@
 import json
+import os
 import spacy
 import pandas as pd
 from pit.prov import Provenance
@@ -9,7 +10,7 @@ from jsonld_utils import JsonLDContextMapper
 # Files
 METADATA = "../data/csv/vasen_altenburg.csv"
 CONCEPTS = "../data/csv/concepts.csv"
-EXPORT_RDF = "../data/rdf/altenburg_keramik.json"
+EXPORT_RDF = "../data/rdf/altenburg_keramik.jsonld"
 
 # NLP Setup
 nlp = spacy.load("de")
@@ -46,14 +47,17 @@ def main():
     concepts = json.loads(concepts.to_json(orient="records"))
     concept_dict = { x["concept"]: x for x in concepts if x["wkp"] }
 
+
     # build rdf dataset
     graph = Graph()
-
     for obj in metadata:
+
         if obj["Ikonographie"]:
             id_ = obj["Inventarnummer"].replace(" ", "_")
             obj_uri = ALTENBURG[id_]
             graph.add( (obj_uri, LA["label"], Literal(obj["Titel"])) )
+            graph.add( (obj_uri, RDF.type, LA["ManMadeObject"]))
+
 
             #add visualItem
             graph.add( (obj_uri, LA["shows"], VISUAL_ITEM[id_] ) )
@@ -66,16 +70,11 @@ def main():
                     wkp_uri = URIRef(concept_dict[token]["wkp"])
 
                     graph.add( (VISUAL_ITEM[id_], LA["represents"], wkp_uri) )
-    
+
+        #filepath = os.path.join("..","assets","{}.jsonld".format(id_))
     graph.serialize(destination=EXPORT_RDF, format='json-ld', context=CONTEXT)
 
-    prov = Provenance(EXPORT_RDF)
-    prov.add(
-        agent="iconography", 
-        activity="create_rdf_dataset", 
-        description="Creates linked art jsonld file for iconographic elements in altenberg ceramic dataset")
-    prov.add_sources([METADATA, CONCEPTS], add_prov_to_source=False)
-    prov.save()
+
 
 if __name__ == "__main__":
     main()

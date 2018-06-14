@@ -1,0 +1,17 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_286",
+      "label": "Rotfiguriger attischer Skyphos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_286"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_286",
+      "type": "VisualItem"
+    }
+  ]
+}

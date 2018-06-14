@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_281",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_281",
+      "label": "Rotfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_281"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}

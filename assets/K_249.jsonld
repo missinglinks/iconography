@@ -1,0 +1,17 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_249",
+      "label": "Attische Kleeblattkanne in Gestalt eines Mädchenkopfes",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_249"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_249",
+      "type": "VisualItem"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_210",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q171839"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_210",
+      "label": "Schwarzfigurige attische Olpe",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_210"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}

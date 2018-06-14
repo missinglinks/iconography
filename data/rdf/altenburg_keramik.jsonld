@@ -1,0 +1,734 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_336",
+      "label": "Rotfiguriger attischer Glockenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_336"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_239",
+      "label": "Rotfiguriger attischer Askos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_239"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_286",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_189",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_209",
+      "label": "Schwarfigurige attische Kleeblattkanne",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_209"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_341",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q734844",
+        "https://www.wikidata.org/wiki/Q180537",
+        "https://www.wikidata.org/wiki/Q577430",
+        "https://www.wikidata.org/wiki/Q121973"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_186",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q83203"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_334",
+      "label": "Rotfiguriges apulisches Choën-Kännchen",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_334"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_203",
+      "label": "Schlanke schwarzfigurige attische Kanne (Olpe)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_203"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_280",
+      "label": "Rotfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_280"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_326.1",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q121973",
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_283",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_244",
+      "label": "Apulische rotfigurige Knopfhenkelschale",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_244"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_302",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102",
+        "https://www.wikidata.org/wiki/Q180537",
+        "https://www.wikidata.org/wiki/Q677655"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_284",
+      "label": "Rotfigurige attische Pelike",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_284"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_239",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_249",
+      "label": "Attische Kleeblattkanne in Gestalt eines Mädchenkopfes",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_249"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_271",
+      "label": "Rotfiguriger attischer Trinkbecher (Skyphos)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_271"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_203.1",
+      "label": "Schwarzfigurige attische Kleeblattkanne",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_203.1"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_279",
+      "label": "Rotfiguriger attischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_279"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_248",
+      "label": "Rotfiguriges apulisches Trinkgefäß (Rhyton) in Gestalt eines Stierkopfes",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_248"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_219",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_279",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_203",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/CV_283",
+      "label": "Unteritalisches Trinkgefäß (Rhyton) in Gestalt eines Stierkopfes",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/CV_283"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_281",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_209",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_319",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_171",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_211",
+      "label": "Schwarzfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_211"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_191",
+      "label": "Ostgriechische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_191"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_289",
+      "label": "Rotfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_289"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_302",
+      "label": "Rotfigurige attische Lekythos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_302"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_325",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q206883",
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_284",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_341",
+      "label": "Rotfiguriger apulischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_341"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_300",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_346",
+      "label": "Rotfigurige apulische Pelike",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_346"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_210",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q171839"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_204",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_212",
+      "label": "Schwarzfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_212"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_283",
+      "label": "Rotfiguriger attischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_283"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_222",
+      "label": "Schwarzfigurige attische Hydria",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_222"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/CV_283",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_274",
+      "label": "Rotgigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_274"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_264",
+      "label": "Pseudo-rotfiguriger etruskischer Skyphos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_264"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_184",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q206883"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_289",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_213",
+      "label": "Attische Lekythos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_213"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_280",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_186",
+      "label": "Schwarzfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_186"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_249",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_214",
+      "label": "Schwarzfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_214"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_203.1",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_334",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_297",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537",
+        "https://www.wikidata.org/wiki/Q206883"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_212",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_217",
+      "represents": [
+        "https://de.wikipedia.org/wiki/Apollon",
+        "https://www.wikidata.org/wiki/Q181922"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_219",
+      "label": "Schwarzfigurige attische Hydria",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_219"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_223",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q580733"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_213",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_214",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q647160",
+        "https://www.wikidata.org/wiki/Q677655",
+        "https://www.wikidata.org/wiki/Q190103",
+        "https://www.wikidata.org/wiki/Q756884",
+        "https://www.wikidata.org/wiki/Q207427"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_255",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q41680"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_223",
+      "label": "Schwarzfigurige attische Kleinmeisterschale (Randschlae)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_223"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_255",
+      "label": "Rotfiguriges attisches Choën-Kännchen",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_255"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_330",
+      "label": "Rotfiguriger etruskischer Stamnos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_330"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_274",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_234",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_296",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q206883"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_248",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_204",
+      "label": "Schwarzfigurige attische Olpe",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_204"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_346",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q121973",
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_352",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_215",
+      "label": "Schwarzfigurige attische Lekythos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_215"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_191",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_184",
+      "label": "Schwarfiguriger attischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_184"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_171",
+      "label": "Korinthisches Salbgefäß (Alabastron)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_171"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_252",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_326.1",
+      "label": "Apulische rotfigurige Oinochoe",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_326.1"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_234",
+      "label": "Rotfigurige attische Trinkschale (Kylix)",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_234"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_216",
+      "represents": [
+        "https://de.wikipedia.org/wiki/Olymp"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_210",
+      "label": "Schwarzfigurige attische Olpe",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_210"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_189",
+      "label": "Schwarzfigurige attische Bauchamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_189"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_300",
+      "label": "Rotfiguriger attischer Kantharos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_300"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_297",
+      "label": "Rotfiguriger attischer Krug ",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_297"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_244",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q121973"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_216",
+      "label": "Schwarzfigurige attische Hydria",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_216"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_281",
+      "label": "Rotfigurige attische Halsamphora",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_281"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_319",
+      "label": "Rotfigurige apulische Pelike",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_319"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_271",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537",
+        "https://www.wikidata.org/wiki/Q206883"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_217",
+      "label": "Schwarzfigurige attische Kleeblattkanne",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_217"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_343",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102",
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_325",
+      "label": "Rotfiguriger attischer Glockenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_325"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_352",
+      "label": "Rotfigurige apulische  Lutrophore",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_352"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_336",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_286",
+      "label": "Rotfiguriger attischer Skyphos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_286"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_264",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_296",
+      "label": "Rotfiguriger attischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_296"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_343",
+      "label": "Rotfiguriger apulischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_343"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_330",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q1631102"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_211",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_222",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q41127",
+        "https://www.wikidata.org/wiki/Q39503",
+        "https://www.wikidata.org/wiki/Q180537"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_215",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_252",
+      "label": "Rotfiguriger attischer Eulenskyphos",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_252"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}

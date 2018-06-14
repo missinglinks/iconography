@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_255",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q41680"
+      ],
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_255",
+      "label": "Rotfiguriges attisches Choën-Kännchen",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_255"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "provit_ns": "http://provit.diggr.link/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#"
+  },
+  "@graph": [
+    {
+      "@id": "http://provit.diggr.link/altenburg_keramik_jsonld/fed494375bd048a4b230db4a4f37d7f1",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/pmuehleder/code/iconography/data/rdf/altenburg_keramik.jsonld",
+      "prov:wasAttributedTo": {
+        "@id": "http://provit.diggr.link/agent/iconography"
+      },
+      "prov:wasDerivedFrom": [
+        {
+          "@id": "http://provit.diggr.link/concepts_csv/0ab9947c77334b1093c998873441eb57"
+        },
+        {
+          "@id": "http://provit.diggr.link/vasen_altenburg_csv/4d59c66b4ee345d4838bd26893dbfd5f"
+        }
+      ],
+      "prov:wasGeneratedBy": {
+        "@id": "http://provit.diggr.link/iconography/create_rdf_dataset/f68a74a0f7df4f81a65cc66c2bf9bf95"
+      }
+    },
+    {
+      "@id": "http://provit.diggr.link/agent/iconography",
+      "@type": "prov:Agent"
+    },
+    {
+      "@id": "http://provit.diggr.link/iconography/create_rdf_dataset/f68a74a0f7df4f81a65cc66c2bf9bf95",
+      "@type": "prov:Activity",
+      "prov:endedAtTime": {
+        "@type": "xsd:dateTime",
+        "@value": "2018-05-03T20:53:53.006862"
+      },
+      "rdfs:label": "Creates linked art jsonld file for iconographic elements in altenberg ceramic dataset"
+    },
+    {
+      "@id": "http://provit.diggr.link/concepts_csv/0ab9947c77334b1093c998873441eb57",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/pmuehleder/code/iconography/data/csv/concepts.csv"
+    },
+    {
+      "@id": "http://provit.diggr.link/vasen_altenburg_csv/4d59c66b4ee345d4838bd26893dbfd5f",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/pmuehleder/code/iconography/data/csv/vasen_altenburg.csv"
+    }
+  ]
+}

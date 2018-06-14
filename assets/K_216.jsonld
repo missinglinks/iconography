@@ -1,0 +1,20 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_216",
+      "label": "Schwarzfigurige attische Hydria",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_216"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_216",
+      "represents": [
+        "https://de.wikipedia.org/wiki/Olymp"
+      ],
+      "type": "VisualItem"
+    }
+  ]
+}

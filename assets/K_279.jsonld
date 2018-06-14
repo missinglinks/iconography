@@ -1,0 +1,17 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_279",
+      "label": "Rotfiguriger attischer Kolonettenkrater",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_279"
+      ],
+      "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_279",
+      "type": "VisualItem"
+    }
+  ]
+}

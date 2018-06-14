@@ -1,0 +1,17 @@
+{
+  "@context": "https://linked.art/ns/v1/linked-art.json",
+  "@graph": [
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_248",
+      "type": "VisualItem"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/K_248",
+      "label": "Rotfiguriges apulisches Trinkgefäß (Rhyton) in Gestalt eines Stierkopfes",
+      "shows": [
+        "https://www.lindenau-museum.de/antike/VisualItem/K_248"
+      ],
+      "type": "ManMadeObject"
+    }
+  ]
+}
