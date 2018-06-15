@@ -1,24 +1,21 @@
-# Icono...was?*
+# Iconogray[y]
 
-(*working title)
+Projekt im Rahmen des [Coding Da Vinci Ost 2018](https://codingdavinci.de/events/ost/)
 
-Learn about iconographic elements in classical art, using Linked Open Data.
+## Projektbeschreibung
 
+Im Rahmen dieses Projektes werden die Metadaten zu den antiken Keramiken des Lindenau-Museum Altenburg in das [Linked Art RDF Format](https://linked.art/)
+überführt und die in den Beschreibungen enthaltenen ikonographischen Elementen mit Wikidata verknüpft.
 
-## Preprocessing
+Das fertige Datenset kann man in einer [Webapplikaiton](https://github.com/missinglinks/iconography-frontend) betrachten, wobei für die einzelnen ikonographischen 
+Elemente zurätzliche Informationen über Wikidata/-pedia einsehbar sind. Über die Webapplikation sind auch die RDF Datensätze verfügbar.
 
-1. Identify nouns in item description and create concept_mapping.csv
-2. Map concepts with wikidata entries
-3. Build linked art rdf datset for objects
-4. Gather rdf data for iconographic elements from wikidata
+## Verwendete Datensätze:
 
+- [Antike Keramik - Lindenau-Museum Altenburg](https://www.lindenau-museum.de/)
+  Lizenz: CC-BY 4.0 International
 
+## Lizenz
 
-## Backend
+GNU GENERAL PUBLIC LICENSE Version 3
 
-pass
-
-
-## Frontend
-
-pass
