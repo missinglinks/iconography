@@ -2,16 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_203",
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_203",
       "label": "Schlanke schwarzfigurige attische Kanne (Olpe)",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_203"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_203",
+      "rdfs:comment": "menschl. Körper/Figur/Akt, Klassische Mythologie/Antike Geschichte, Kämpfe des Achilles / Eingreifen der Götter, Rüstung, Panzer, Schild (Waffen), Aias trägt den toten Achill vom Kampfplatz, links Mutter Thetis, rechts geht Paris, der den tötlichen Pfeil auf Achills schoss aus dem Bild",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q41746"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

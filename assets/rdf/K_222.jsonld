@@ -2,21 +2,26 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_222",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q898879",
-        "https://www.wikidata.org/wiki/Q39503",
-        "https://www.wikidata.org/wiki/Q41127"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_222",
       "label": "Schwarzfigurige attische Hydria",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_222"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_222",
+      "rdfs:comment": "Götter (klass. Mythologie): Hermes, Aphrodite, Apollon, Artemis, Poseidon, Mäander, Weinlaub, wilde Tiere",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q41484",
+        "https://www.wikidata.org/wiki/Q35500",
+        "https://www.wikidata.org/wiki/Q37340",
+        "https://www.wikidata.org/wiki/Q30046",
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q39503",
+        "https://www.wikidata.org/wiki/Q41127"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

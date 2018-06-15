@@ -11,6 +11,13 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_203.1",
+      "rdfs:comment": "Götter (klass. Mythologie), Athena auf Klappstuhl mit Löwenfüßen, attischer Helm, Lanze, Ägis, schlangenumzüngeltes Ziegenfell, Weinlaub",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q30046",
+        "https://www.wikidata.org/wiki/Q2003053",
+        "https://www.wikidata.org/wiki/Q190662",
+        "https://www.wikidata.org/wiki/Q37122"
+      ],
       "type": "VisualItem"
     }
   ]

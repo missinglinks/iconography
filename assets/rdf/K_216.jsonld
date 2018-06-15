@@ -11,8 +11,14 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_216",
+      "rdfs:comment": "Pferd, Geschichte des Bacchus (Dionysus), Frau, Mann, Lanze, Weintraube, mit Tieren bespannte Fahrzeuge (Kutsche etc.), Götter (klass. Mythologie), Einzug des Helden Herakles in den Olymp, begleitet von Athena auf eine vierspännigen Wagen,  Dionysos und vermutlich Hebe, die Tochter von hera und Zeus, Göttin der Jugend, nehmen ihn in Empfang",
       "represents": [
-        "https://www.wikidata.org/wiki/Q80344"
+        "https://www.wikidata.org/wiki/Q41680",
+        "https://www.wikidata.org/wiki/Q80344",
+        "https://www.wikidata.org/wiki/Q37122",
+        "https://www.wikidata.org/wiki/Q2003053",
+        "https://www.wikidata.org/wiki/Q34201",
+        "https://www.wikidata.org/wiki/Q203788"
       ],
       "type": "VisualItem"
     }

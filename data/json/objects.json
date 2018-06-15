@@ -1,18 +1,70 @@
 {
-    "https://www.lindenau-museum.de/antike/K_343": {
+    "https://www.lindenau-museum.de/antike/K_223": {
         "label": [
-            "Rotfiguriger apulischer Kolonettenkrater"
+            "Schwarzfigurige attische Kleinmeisterschale (Randschlae)"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q580733"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, G\u00f6tter (klass. Mythologie), J\u00fcngling, Hippalektrion: Hippos (Pferd) + Alekos (Hahn)"
+    },
+    "https://www.lindenau-museum.de/antike/K_334": {
+        "label": [
+            "Rotfiguriges apulisches Cho\u00ebn-K\u00e4nnchen"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q146"
+        ],
+        "description": "Katze, Mann, unbekleidet, (fast) nackt zeigen, Festlichkeiten"
+    },
+    "https://www.lindenau-museum.de/antike/K_280": {
+        "label": [
+            "Rotfigurige attische Halsamphora"
         ],
         "elements": [
             "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q1631102"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_248": {
-        "label": [
-            "Rotfiguriges apulisches Trinkgef\u00e4\u00df (Rhyton) in Gestalt eines Stierkopfes"
+            "https://www.wikidata.org/wiki/Q755706",
+            "https://www.wikidata.org/wiki/Q464091",
+            "https://www.wikidata.org/wiki/Q41680"
         ],
-        "elements": []
+        "description": "Klassische Mythologie/Antike Geschichte, Geschichte des Bacchus (Dionysus), Beh\u00e4lter (Keramik): Dionysos, Stab mit Pinienzapfen, Altar, Kantharos, Trankspende, M\u00e4ander, Kanne, Satyrn, Faune, Silene, Wein"
+    },
+    "https://www.lindenau-museum.de/antike/K_239": {
+        "label": [
+            "Rotfiguriger attischer Askos"
+        ],
+        "elements": [],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Spendengef\u00e4\u00df, Trankopfer, Hund, Widder"
+    },
+    "https://www.lindenau-museum.de/antike/K_210": {
+        "label": [
+            "Schwarzfigurige attische Olpe"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q171839"
+        ],
+        "description": "Griechenland, G\u00f6tter (klass. Mythologie), vermutlich abgebildet: der Krieger in der Mitte, Menelaos verzeiht seiner untreuen Frau Helena, er zieht am Gewand, sie l\u00fcftet ihr Gesicht, weitere M\u00e4nner, Frauen"
+    },
+    "https://www.lindenau-museum.de/antike/K_191": {
+        "label": [
+            "Ostgriechische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q898879",
+            "https://www.wikidata.org/wiki/Q207427",
+            "https://www.wikidata.org/wiki/Q5601924",
+            "https://www.wikidata.org/wiki/Q6046828"
+        ],
+        "description": "menschl. K\u00f6rper/Figur/Akt, Tanzen, T\u00e4nzer, Geschichte des Bacchus (Dionysus), M\u00e4ander, Wein, 11 tanzende Zecher, begleitet von einem Aulosspieler, vier trinken aus Schalen, zwei halten Kannen, rechts und links die Vorratsbeh\u00e4lter mit Wein, Dinoi, Flechtb\u00e4nder, offene und geschlossene Lotusbl\u00fcten, Sichel-Ornament"
+    },
+    "https://www.lindenau-museum.de/antike/K_283": {
+        "label": [
+            "Rotfiguriger attischer Kolonettenkrater"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q1631102"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Totenkult, Trankopfer Gef\u00e4\u00df Phiale, J\u00fcngling, Frau, Abschied von Kriegern, hier Kaufmann oder Athlet"
     },
     "https://www.lindenau-museum.de/antike/K_326.1": {
         "label": [
@@ -21,258 +73,32 @@
         "elements": [
             "https://www.wikidata.org/wiki/Q121973",
             "https://www.wikidata.org/wiki/Q898879"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_214": {
-        "label": [
-            "Schwarzfigurige attische Halsamphora"
         ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q190103",
-            "https://www.wikidata.org/wiki/Q647160",
-            "https://www.wikidata.org/wiki/Q756884",
-            "https://www.wikidata.org/wiki/Q207427",
-            "https://www.wikidata.org/wiki/Q677655"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_210": {
-        "label": [
-            "Schwarzfigurige attische Olpe"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q171839"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_223": {
-        "label": [
-            "Schwarzfigurige attische Kleinmeisterschale (Randschlae)"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q580733"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_184": {
-        "label": [
-            "Schwarfiguriger attischer Kolonettenkrater"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q206883"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_211": {
-        "label": [
-            "Schwarzfigurige attische Halsamphora"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_283": {
-        "label": [
-            "Rotfiguriger attischer Kolonettenkrater"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q1631102"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_252": {
-        "label": [
-            "Rotfiguriger attischer Eulenskyphos"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_341": {
-        "label": [
-            "Rotfiguriger apulischer Kolonettenkrater"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q577430",
-            "https://www.wikidata.org/wiki/Q121973",
-            "https://www.wikidata.org/wiki/Q734844"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_204": {
-        "label": [
-            "Schwarzfigurige attische Olpe"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_279": {
-        "label": [
-            "Rotfiguriger attischer Kolonettenkrater"
-        ],
-        "elements": []
+        "description": "M\u00e4dchen, G\u00f6tter (klass. Mythologie), Blumen, M\u00e4ander, Ballspiel zwischen Eros und einem M\u00e4dchen"
     },
     "https://www.lindenau-museum.de/antike/K_219": {
         "label": [
             "Schwarzfigurige attische Hydria"
         ],
-        "elements": []
+        "elements": [
+            "https://www.wikidata.org/wiki/Q41680",
+            "https://www.wikidata.org/wiki/Q183932",
+            "https://www.wikidata.org/wiki/Q37340",
+            "https://www.wikidata.org/wiki/Q41484",
+            "https://www.wikidata.org/wiki/Q438479",
+            "https://www.wikidata.org/wiki/Q1044408"
+        ],
+        "description": "menschl. K\u00f6rper/Figur/Akt, Geschichte des Bacchus (Dionysus), Frau, Mann, Musikinstrumente, Musizieren, Lyra, Leier, Zither, Psalterium, Klappern, Kastagnetten, G\u00f6tter (klass. Mythologie), Dionysos, \u2026\u2026., Hermes, Apollon"
     },
-    "https://www.lindenau-museum.de/antike/K_346": {
+    "https://www.lindenau-museum.de/antike/K_297": {
         "label": [
-            "Rotfigurige apulische Pelike"
+            "Rotfiguriger attischer Krug "
         ],
         "elements": [
-            "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q121973"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_203.1": {
-        "label": [
-            "Schwarzfigurige attische Kleeblattkanne"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_234": {
-        "label": [
-            "Rotfigurige attische Trinkschale (Kylix)"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_216": {
-        "label": [
-            "Schwarzfigurige attische Hydria"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q80344"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_222": {
-        "label": [
-            "Schwarzfigurige attische Hydria"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q39503",
-            "https://www.wikidata.org/wiki/Q41127"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_209": {
-        "label": [
-            "Schwarfigurige attische Kleeblattkanne"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_212": {
-        "label": [
-            "Schwarzfigurige attische Halsamphora"
-        ],
-        "elements": [
+            "https://www.wikidata.org/wiki/Q206883",
             "https://www.wikidata.org/wiki/Q898879"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_286": {
-        "label": [
-            "Rotfiguriger attischer Skyphos"
         ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_271": {
-        "label": [
-            "Rotfiguriger attischer Trinkbecher (Skyphos)"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q206883"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_334": {
-        "label": [
-            "Rotfiguriges apulisches Cho\u00ebn-K\u00e4nnchen"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_325": {
-        "label": [
-            "Rotfiguriger attischer Glockenkrater"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q206883"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_215": {
-        "label": [
-            "Schwarzfigurige attische Lekythos"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_186": {
-        "label": [
-            "Schwarzfigurige attische Halsamphora"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q83203"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_300": {
-        "label": [
-            "Rotfiguriger attischer Kantharos"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_217": {
-        "label": [
-            "Schwarzfigurige attische Kleeblattkanne"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q181922",
-            "https://www.wikidata.org/wiki/Q37340"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_239": {
-        "label": [
-            "Rotfiguriger attischer Askos"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_249": {
-        "label": [
-            "Attische Kleeblattkanne in Gestalt eines M\u00e4dchenkopfes"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_264": {
-        "label": [
-            "Pseudo-rotfiguriger etruskischer Skyphos"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_203": {
-        "label": [
-            "Schlanke schwarzfigurige attische Kanne (Olpe)"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_213": {
-        "label": [
-            "Attische Lekythos"
-        ],
-        "elements": []
-    },
-    "https://www.lindenau-museum.de/antike/K_281": {
-        "label": [
-            "Rotfigurige attische Halsamphora"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_244": {
-        "label": [
-            "Apulische rotfigurige Knopfhenkelschale"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q121973"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_289": {
-        "label": [
-            "Rotfigurige attische Halsamphora"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879"
-        ]
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Mann, M\u00e4ander, Musikinstrumente, unbekleidet, (fast) nackt zeigen, Umherziehen der M\u00e4nner mit Wein und Musik nach einem Symposion"
     },
     "https://www.lindenau-museum.de/antike/K_302": {
         "label": [
@@ -280,62 +106,143 @@
         ],
         "elements": [
             "https://www.wikidata.org/wiki/Q898879",
+            "https://www.wikidata.org/wiki/Q1631102",
             "https://www.wikidata.org/wiki/Q677655",
-            "https://www.wikidata.org/wiki/Q1631102"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_274": {
-        "label": [
-            "Rotgigurige attische Halsamphora"
+            "https://www.wikidata.org/wiki/Q165023"
         ],
-        "elements": []
+        "description": "Totenkult, G\u00f6tter (klass. Mythologie) Siegesg\u00f6ttin Nike, \u00c4rmelchiton, Mantel , Haube, Palmetten, Stabornament, M\u00e4ander"
     },
-    "https://www.lindenau-museum.de/antike/K_297": {
+    "https://www.lindenau-museum.de/antike/K_186": {
         "label": [
-            "Rotfiguriger attischer Krug "
+            "Schwarzfigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q83203"
+        ],
+        "description": "Kentauren, Geschichte von Herkules (Herakles), Beh\u00e4lter (Keramik): Gef\u00e4\u00df, Krug, Topf, Vase"
+    },
+    "https://www.lindenau-museum.de/antike/K_203.1": {
+        "label": [
+            "Schwarzfigurige attische Kleeblattkanne"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q37122",
+            "https://www.wikidata.org/wiki/Q30046",
+            "https://www.wikidata.org/wiki/Q2003053",
+            "https://www.wikidata.org/wiki/Q190662"
+        ],
+        "description": "G\u00f6tter (klass. Mythologie), Athena auf Klappstuhl mit L\u00f6wenf\u00fc\u00dfen, attischer Helm, Lanze, \u00c4gis, schlangenumz\u00fcngeltes Ziegenfell, Weinlaub"
+    },
+    "https://www.lindenau-museum.de/antike/K_184": {
+        "label": [
+            "Schwarfiguriger attischer Kolonettenkrater"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q17161",
+            "https://www.wikidata.org/wiki/Q150986",
+            "https://www.wikidata.org/wiki/Q151480",
+            "https://www.wikidata.org/wiki/Q206883"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Symposion, Etrusker, Export, Tierfrise als Dekor, H\u00e4hne, Fabeltiere, Sirene, Sphinx"
+    },
+    "https://www.lindenau-museum.de/antike/K_300": {
+        "label": [
+            "Rotfiguriger attischer Kantharos"
+        ],
+        "elements": [],
+        "description": "Klassische Mythologie/Antike Geschichte, Junge, Diener, Begleiter, Gef\u00e4hrten, Dionysoskult"
+    },
+    "https://www.lindenau-museum.de/antike/K_212": {
+        "label": [
+            "Schwarzfigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q159666",
+            "https://www.wikidata.org/wiki/Q1164462",
+            "https://www.wikidata.org/wiki/Q464091",
+            "https://www.wikidata.org/wiki/Q898879",
+            "https://www.wikidata.org/wiki/Q42937",
+            "https://www.wikidata.org/wiki/Q203788"
+        ],
+        "description": "menschl. K\u00f6rper/Figur/Akt, Musiker, Musizieren, Geschichte des Bacchus (Dionysus), M\u00e4ander, Wein, Satyrn, Faune, Silene, m\u00e4nnlicher Akt, R\u00fcckseite vermutlich Szene trojanischer Krieg: zwei Krieger auf viersp\u00e4nnigem Wagen, vermutlich Prinz Hektor und Wagenlenker Kebriones, Mann links k\u00f6nnte Prinz Paris sein, Frau rechts k\u00f6nnte Ehefrau des Hektor sein, Andromache"
+    },
+    "https://www.lindenau-museum.de/antike/K_249": {
+        "label": [
+            "Attische Kleeblattkanne in Gestalt eines M\u00e4dchenkopfes"
+        ],
+        "elements": [],
+        "description": "M\u00e4dchen, Grabbeigabe, Duft\u00f6le"
+    },
+    "https://www.lindenau-museum.de/antike/K_248": {
+        "label": [
+            "Rotfiguriges apulisches Trinkgef\u00e4\u00df (Rhyton) in Gestalt eines Stierkopfes"
+        ],
+        "elements": [],
+        "description": "Rind, Rindvieh"
+    },
+    "https://www.lindenau-museum.de/antike/K_203": {
+        "label": [
+            "Schlanke schwarzfigurige attische Kanne (Olpe)"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q41746"
+        ],
+        "description": "menschl. K\u00f6rper/Figur/Akt, Klassische Mythologie/Antike Geschichte, K\u00e4mpfe des Achilles / Eingreifen der G\u00f6tter, R\u00fcstung, Panzer, Schild (Waffen), Aias tr\u00e4gt den toten Achill vom Kampfplatz, links Mutter Thetis, rechts geht Paris, der den t\u00f6tlichen Pfeil auf Achills schoss aus dem Bild"
+    },
+    "https://www.lindenau-museum.de/antike/K_341": {
+        "label": [
+            "Rotfiguriger apulischer Kolonettenkrater"
         ],
         "elements": [
             "https://www.wikidata.org/wiki/Q898879",
-            "https://www.wikidata.org/wiki/Q206883"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_284": {
-        "label": [
-            "Rotfigurige attische Pelike"
+            "https://www.wikidata.org/wiki/Q121973",
+            "https://www.wikidata.org/wiki/Q734844",
+            "https://www.wikidata.org/wiki/Q193220",
+            "https://www.wikidata.org/wiki/Q577430",
+            "https://www.wikidata.org/wiki/Q26354"
         ],
-        "elements": []
+        "description": "G\u00f6tter (klass. Mythologie) mittig sitzt Eros, Fels, Spiegel, Frauen tragen Dolden mit Stengel, links Kranz, rechts F\u00e4cher, Efeuranken, M\u00e4ander"
     },
-    "https://www.lindenau-museum.de/antike/K_280": {
+    "https://www.lindenau-museum.de/antike/K_234": {
         "label": [
-            "Rotfigurige attische Halsamphora"
-        ],
-        "elements": [
-            "https://www.wikidata.org/wiki/Q898879"
-        ]
-    },
-    "https://www.lindenau-museum.de/antike/K_296": {
-        "label": [
-            "Rotfiguriger attischer Kolonettenkrater"
+            "Rotfigurige attische Trinkschale (Kylix)"
         ],
         "elements": [
-            "https://www.wikidata.org/wiki/Q206883"
-        ]
+            "https://www.wikidata.org/wiki/Q2176287",
+            "https://www.wikidata.org/wiki/Q3577"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, J\u00fcngling, nackt, Rundschild, Waffenlauf, Sport, "
     },
-    "https://www.lindenau-museum.de/antike/K_255": {
+    "https://www.lindenau-museum.de/antike/K_217": {
         "label": [
-            "Rotfiguriges attisches Cho\u00ebn-K\u00e4nnchen"
+            "Schwarzfigurige attische Kleeblattkanne"
         ],
         "elements": [
-            "https://www.wikidata.org/wiki/Q41680"
-        ]
+            "https://www.wikidata.org/wiki/Q30046",
+            "https://www.wikidata.org/wiki/Q181922",
+            "https://www.wikidata.org/wiki/Q37340"
+        ],
+        "description": "G\u00f6tter (klass. Mythologie) Apollon als Kitharode in Chiton und Mantel, Musikinstrument, Weinlaub"
     },
-    "https://www.lindenau-museum.de/antike/K_191": {
+    "https://www.lindenau-museum.de/antike/K_346": {
         "label": [
-            "Ostgriechische Halsamphora"
+            "Rotfigurige apulische Pelike"
         ],
         "elements": [
-            "https://www.wikidata.org/wiki/Q898879"
-        ]
+            "https://www.wikidata.org/wiki/Q898879",
+            "https://www.wikidata.org/wiki/Q37083",
+            "https://www.wikidata.org/wiki/Q121973"
+        ],
+        "description": "Frau, Mann, M\u00e4ander, Olivenzweig, unbekleidet, (fast) nackt zeigen, Klassische Mythologie/Antike Geschichte, G\u00f6tter (klass. Mythologie) Eros, "
+    },
+    "https://www.lindenau-museum.de/antike/K_211": {
+        "label": [
+            "Schwarzfigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q37122"
+        ],
+        "description": "Vorderseite: griechischer Held Aias tr\u00e4gt den toten Achill aus der Schlacht, rechts Athena, links vermutlich Thetis, R\u00fcckseite: athenischer Held Theseus k\u00e4mpft mit Minotaurus"
     },
     "https://www.lindenau-museum.de/antike/K_330": {
         "label": [
@@ -343,6 +250,226 @@
         ],
         "elements": [
             "https://www.wikidata.org/wiki/Q1631102"
-        ]
+        ],
+        "description": "Sepulkral, Totenkult, Totentanz, Frau flieht vor Todesd\u00e4mon Charun, Akt, Axt, Beil, fliehen, wegrennen, verfolgen, R\u00fcckseite: am Boden liegender Krieger sucht sich mit dem Schild gegen den gewaltigen Griefen zu wehren"
+    },
+    "https://www.lindenau-museum.de/antike/K_215": {
+        "label": [
+            "Schwarzfigurige attische Lekythos"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q677655"
+        ],
+        "description": "menschl. K\u00f6rper/Figur/Akt, Panther, Palmette (Ornament), Frau, Klassische Mythologie/Antike Geschichte"
+    },
+    "https://www.lindenau-museum.de/antike/K_343": {
+        "label": [
+            "Rotfiguriger apulischer Kolonettenkrater"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q26354",
+            "https://www.wikidata.org/wiki/Q898879",
+            "https://www.wikidata.org/wiki/Q1631102"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Efeuranken, Punktrosetten, sepulkral, Totenkult, J\u00fcngling, Pferd, Waffen, Opferbrot, Kanne, Nestoris, Pflanzen, M\u00e4ander"
+    },
+    "https://www.lindenau-museum.de/antike/K_244": {
+        "label": [
+            "Apulische rotfigurige Knopfhenkelschale"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q11404",
+            "https://www.wikidata.org/wiki/Q37083",
+            "https://www.wikidata.org/wiki/Q121973"
+        ],
+        "description": "Spiegel, G\u00f6tter Eros (klass. Mythologie), Blumen, Trommel, Olivenzweig"
+    },
+    "https://www.lindenau-museum.de/antike/K_264": {
+        "label": [
+            "Pseudo-rotfiguriger etruskischer Skyphos"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q37083"
+        ],
+        "description": "Eulen, Olivenzweig"
+    },
+    "https://www.lindenau-museum.de/antike/K_209": {
+        "label": [
+            "Schwarfigurige attische Kleeblattkanne"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q41484",
+            "https://www.wikidata.org/wiki/Q26354"
+        ],
+        "description": "G\u00f6tter (klass. Mythologie), Efeuranken, G\u00f6tterversammlung, Hermes und andere"
+    },
+    "https://www.lindenau-museum.de/antike/K_281": {
+        "label": [
+            "Rotfigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q898879"
+        ],
+        "description": "menschl. K\u00f6rper/Figur/Akt, Mann, M\u00e4ander"
+    },
+    "https://www.lindenau-museum.de/antike/K_271": {
+        "label": [
+            "Rotfiguriger attischer Trinkbecher (Skyphos)"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q36633",
+            "https://www.wikidata.org/wiki/Q206883",
+            "https://www.wikidata.org/wiki/Q898879"
+        ],
+        "description": "Griechenland, Frau, Gesellschaft/gesellschaftliches Leben, Beh\u00e4lter (Textil): Tasche, Beutel, Sack, Prostitution, Mann, M\u00e4ander, Vorbereitungen zum Symposion"
+    },
+    "https://www.lindenau-museum.de/antike/K_289": {
+        "label": [
+            "Rotfigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q464091",
+            "https://www.wikidata.org/wiki/Q898879"
+        ],
+        "description": "Geschichte des Bacchus (Dionysus), Satyrn, Faune, Silene, Mann, Frau, M\u00e4ander, Fackel"
+    },
+    "https://www.lindenau-museum.de/antike/K_252": {
+        "label": [
+            "Rotfiguriger attischer Eulenskyphos"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q37083"
+        ],
+        "description": "Eulen, Olivenzweig"
+    },
+    "https://www.lindenau-museum.de/antike/K_222": {
+        "label": [
+            "Schwarzfigurige attische Hydria"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q39503",
+            "https://www.wikidata.org/wiki/Q30046",
+            "https://www.wikidata.org/wiki/Q35500",
+            "https://www.wikidata.org/wiki/Q41127",
+            "https://www.wikidata.org/wiki/Q41484",
+            "https://www.wikidata.org/wiki/Q37340",
+            "https://www.wikidata.org/wiki/Q898879"
+        ],
+        "description": "G\u00f6tter (klass. Mythologie): Hermes, Aphrodite, Apollon, Artemis, Poseidon, M\u00e4ander, Weinlaub, wilde Tiere"
+    },
+    "https://www.lindenau-museum.de/antike/K_284": {
+        "label": [
+            "Rotfigurige attische Pelike"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q3577"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Waffenl\u00e4ufer oder -t\u00e4nzer, Training, Lehrer oder Kampfrichter, Olympia, Sport"
+    },
+    "https://www.lindenau-museum.de/antike/K_213": {
+        "label": [
+            "Attische Lekythos"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q464091"
+        ],
+        "description": "Rind, Rindvieh, Reiten/Reiter(in), Frau, Satyrn, Faune, Silene, Klassische Mythologie/Antike Geschichte"
+    },
+    "https://www.lindenau-museum.de/antike/K_255": {
+        "label": [
+            "Rotfiguriges attisches Cho\u00ebn-K\u00e4nnchen"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q41680",
+            "https://www.wikidata.org/wiki/Q146"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Knabe, unbekleidet, (fast) nackt, Mantel, Katze, Pflanzen, Festlichkeiten zu Ehren Dionysos "
+    },
+    "https://www.lindenau-museum.de/antike/K_325": {
+        "label": [
+            "Rotfiguriger attischer Glockenkrater"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q206883",
+            "https://www.wikidata.org/wiki/Q922892",
+            "https://www.wikidata.org/wiki/Q898879"
+        ],
+        "description": "Griechenland, Kline, Symposion, Gesellschaft/gesellschaftliches Leben, Musiker, Musikinstrumente, Mann, Frau, M\u00e4ander"
+    },
+    "https://www.lindenau-museum.de/antike/K_204": {
+        "label": [
+            "Schwarzfigurige attische Olpe"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q2003053",
+            "https://www.wikidata.org/wiki/Q155987"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, G\u00f6tter (klass. Mythologie), ger\u00fcsteter Kriger, alter Mann mit wei\u00dfem Bart, Viergespann, schwarzes und wei\u00dfes Pferd, schwer bewaffneter Fu\u00dfsoldat, Lanze Helm, Schild: Hoplit, "
+    },
+    "https://www.lindenau-museum.de/antike/K_279": {
+        "label": [
+            "Rotfiguriger attischer Kolonettenkrater"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q5601924"
+        ],
+        "description": "Griechenland, T\u00e4nzer, Gesellschaft/gesellschaftliches Leben, Beh\u00e4lter (Keramik): Gef\u00e4\u00df, Krug, Topf, Vase, m\u00e4nnlicher Akt, Mann, Frau, S\u00e4ule, Pfeiler (Architektur), Musikinstrumente"
+    },
+    "https://www.lindenau-museum.de/antike/K_286": {
+        "label": [
+            "Rotfiguriger attischer Skyphos"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q734844"
+        ],
+        "description": "Griechenland, Gesellschaft/gesellschaftliches Leben, Sport, Olympia, Athlet, nackt mit Siegeskranz und Schabeisen (Strigilis), Wendes\u00e4ule, "
+    },
+    "https://www.lindenau-museum.de/antike/K_296": {
+        "label": [
+            "Rotfiguriger attischer Kolonettenkrater"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q922892",
+            "https://www.wikidata.org/wiki/Q206883"
+        ],
+        "description": "Griechenland, Kline, Symposion, Gesellschaft/gesellschaftliches Leben, Musiker, Musikinstrumente, Mann, Frau, S\u00e4ule, Pfeiler (Architektur)"
+    },
+    "https://www.lindenau-museum.de/antike/K_214": {
+        "label": [
+            "Schwarzfigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q677655",
+            "https://www.wikidata.org/wiki/Q42486",
+            "https://www.wikidata.org/wiki/Q207427",
+            "https://www.wikidata.org/wiki/Q756884",
+            "https://www.wikidata.org/wiki/Q190103",
+            "https://www.wikidata.org/wiki/Q647160"
+        ],
+        "description": "G\u00f6tter (klass. Mythologie) beide Sieten Pferdef\u00fchrender J\u00fcngling in R\u00fcstung, eventuell Dioskuren Kastor und Polydeukes, Beide Seiten, Figurenfries mit Faustk\u00e4mpern und Ringern + Kampfrichter in der Pal\u00e4stra, Lotusbbl\u00fcten, Palmetten"
+    },
+    "https://www.lindenau-museum.de/antike/K_274": {
+        "label": [
+            "Rotgigurige attische Halsamphora"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q165023",
+            "https://www.wikidata.org/wiki/Q1631102"
+        ],
+        "description": "G\u00f6tter (klass. Mythologei) Siegesg\u00f6ttin Nike, M\u00e4anderstreifen, \u00c4rmelchiton, Fackeln, Haube, R\u00fcckseite: Frau, chiton, Fackellauf, Totenkult"
+    },
+    "https://www.lindenau-museum.de/antike/K_216": {
+        "label": [
+            "Schwarzfigurige attische Hydria"
+        ],
+        "elements": [
+            "https://www.wikidata.org/wiki/Q41680",
+            "https://www.wikidata.org/wiki/Q80344",
+            "https://www.wikidata.org/wiki/Q203788",
+            "https://www.wikidata.org/wiki/Q37122",
+            "https://www.wikidata.org/wiki/Q2003053",
+            "https://www.wikidata.org/wiki/Q34201"
+        ],
+        "description": "Pferd, Geschichte des Bacchus (Dionysus), Frau, Mann, Lanze, Weintraube, mit Tieren bespannte Fahrzeuge (Kutsche etc.), G\u00f6tter (klass. Mythologie), Einzug des Helden Herakles in den Olymp, begleitet von Athena auf eine viersp\u00e4nnigen Wagen,  Dionysos und vermutlich Hebe, die Tochter von hera und Zeus, G\u00f6ttin der Jugend, nehmen ihn in Empfang"
     }
 }

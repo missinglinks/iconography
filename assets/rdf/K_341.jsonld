@@ -11,10 +11,13 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_341",
+      "rdfs:comment": "Götter (klass. Mythologie) mittig sitzt Eros, Fels, Spiegel, Frauen tragen Dolden mit Stengel, links Kranz, rechts Fächer, Efeuranken, Mäander",
       "represents": [
+        "https://www.wikidata.org/wiki/Q734844",
         "https://www.wikidata.org/wiki/Q121973",
         "https://www.wikidata.org/wiki/Q577430",
-        "https://www.wikidata.org/wiki/Q734844",
+        "https://www.wikidata.org/wiki/Q193220",
+        "https://www.wikidata.org/wiki/Q26354",
         "https://www.wikidata.org/wiki/Q898879"
       ],
       "type": "VisualItem"

@@ -2,20 +2,22 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_217",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q181922",
-        "https://www.wikidata.org/wiki/Q37340"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_217",
       "label": "Schwarzfigurige attische Kleeblattkanne",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_217"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_217",
+      "rdfs:comment": "Götter (klass. Mythologie) Apollon als Kitharode in Chiton und Mantel, Musikinstrument, Weinlaub",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q30046",
+        "https://www.wikidata.org/wiki/Q37340",
+        "https://www.wikidata.org/wiki/Q181922"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

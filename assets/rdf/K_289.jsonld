@@ -3,8 +3,10 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_289",
+      "rdfs:comment": "Geschichte des Bacchus (Dionysus), Satyrn, Faune, Silene, Mann, Frau, Mäander, Fackel",
       "represents": [
-        "https://www.wikidata.org/wiki/Q898879"
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q464091"
       ],
       "type": "VisualItem"
     },

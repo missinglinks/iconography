@@ -3,9 +3,11 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_325",
+      "rdfs:comment": "Griechenland, Kline, Symposion, Gesellschaft/gesellschaftliches Leben, Musiker, Musikinstrumente, Mann, Frau, Mäander",
       "represents": [
-        "https://www.wikidata.org/wiki/Q898879",
-        "https://www.wikidata.org/wiki/Q206883"
+        "https://www.wikidata.org/wiki/Q206883",
+        "https://www.wikidata.org/wiki/Q922892",
+        "https://www.wikidata.org/wiki/Q898879"
       ],
       "type": "VisualItem"
     },

@@ -11,6 +11,10 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_279",
+      "rdfs:comment": "Griechenland, Tänzer, Gesellschaft/gesellschaftliches Leben, Behälter (Keramik): Gefäß, Krug, Topf, Vase, männlicher Akt, Mann, Frau, Säule, Pfeiler (Architektur), Musikinstrumente",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q5601924"
+      ],
       "type": "VisualItem"
     }
   ]

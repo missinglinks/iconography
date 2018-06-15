@@ -3,6 +3,7 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_186",
+      "rdfs:comment": "Kentauren, Geschichte von Herkules (Herakles), Behälter (Keramik): Gefäß, Krug, Topf, Vase",
       "represents": [
         "https://www.wikidata.org/wiki/Q83203"
       ],

@@ -2,19 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_210",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q171839"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_210",
       "label": "Schwarzfigurige attische Olpe",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_210"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_210",
+      "rdfs:comment": "Griechenland, Götter (klass. Mythologie), vermutlich abgebildet: der Krieger in der Mitte, Menelaos verzeiht seiner untreuen Frau Helena, er zieht am Gewand, sie lüftet ihr Gesicht, weitere Männer, Frauen",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q171839"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

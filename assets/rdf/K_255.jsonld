@@ -3,8 +3,10 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_255",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Knabe, unbekleidet, (fast) nackt, Mantel, Katze, Pflanzen, Festlichkeiten zu Ehren Dionysos ",
       "represents": [
-        "https://www.wikidata.org/wiki/Q41680"
+        "https://www.wikidata.org/wiki/Q41680",
+        "https://www.wikidata.org/wiki/Q146"
       ],
       "type": "VisualItem"
     },

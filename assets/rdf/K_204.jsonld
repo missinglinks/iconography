@@ -11,6 +11,11 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_204",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Götter (klass. Mythologie), gerüsteter Kriger, alter Mann mit weißem Bart, Viergespann, schwarzes und weißes Pferd, schwer bewaffneter Fußsoldat, Lanze Helm, Schild: Hoplit, ",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q2003053",
+        "https://www.wikidata.org/wiki/Q155987"
+      ],
       "type": "VisualItem"
     }
   ]

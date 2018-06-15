@@ -11,8 +11,10 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_343",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Efeuranken, Punktrosetten, sepulkral, Totenkult, Jüngling, Pferd, Waffen, Opferbrot, Kanne, Nestoris, Pflanzen, Mäander",
       "represents": [
         "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q26354",
         "https://www.wikidata.org/wiki/Q1631102"
       ],
       "type": "VisualItem"

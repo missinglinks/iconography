@@ -3,9 +3,10 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_326.1",
+      "rdfs:comment": "Mädchen, Götter (klass. Mythologie), Blumen, Mäander, Ballspiel zwischen Eros und einem Mädchen",
       "represents": [
-        "https://www.wikidata.org/wiki/Q121973",
-        "https://www.wikidata.org/wiki/Q898879"
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q121973"
       ],
       "type": "VisualItem"
     },

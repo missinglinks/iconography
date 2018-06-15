@@ -11,7 +11,11 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_184",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Symposion, Etrusker, Export, Tierfrise als Dekor, Hähne, Fabeltiere, Sirene, Sphinx",
       "represents": [
+        "https://www.wikidata.org/wiki/Q17161",
+        "https://www.wikidata.org/wiki/Q150986",
+        "https://www.wikidata.org/wiki/Q151480",
         "https://www.wikidata.org/wiki/Q206883"
       ],
       "type": "VisualItem"

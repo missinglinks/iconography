@@ -2,8 +2,9 @@ import json
 import os
 import spacy
 import pandas as pd
+from tqdm import tqdm
 from pit.prov import Provenance
-from rdflib import Graph, Namespace, URIRef, Literal, RDF
+from rdflib import Graph, Namespace, URIRef, Literal, RDF,RDFS
 
 from jsonld_utils import JsonLDContextMapper
 
@@ -32,8 +33,8 @@ def nn_norm_tokens(s):
     processed = nlp(s)
     for sent in processed.sents:
         for token in sent:
-            if token.tag_ == "NN":
-                nn.add(token.norm_)
+            #if token.tag_ == "NN":
+            nn.add(token.norm_.lower())
     return list(nn)
         
 def main():
@@ -50,7 +51,7 @@ def main():
 
     # build rdf datasets
 
-    for obj in metadata:
+    for obj in tqdm(metadata):
         graph = Graph()
         if obj["Ikonographie"]:
             id_ = obj["Inventarnummer"].replace(" ", "_")
@@ -61,6 +62,7 @@ def main():
 
             #add visualItem
             graph.add( (obj_uri, LA["shows"], VISUAL_ITEM[id_] ) )
+            graph.add( (VISUAL_ITEM[id_], RDFS.comment, Literal(obj["Ikonographie"])) )
             graph.add( (VISUAL_ITEM[id_], RDF.type, LA["VisualItem"]) )
 
             # add inconographic subjects to graph

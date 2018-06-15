@@ -11,6 +11,7 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_283",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Totenkult, Trankopfer Gefäß Phiale, Jüngling, Frau, Abschied von Kriegern, hier Kaufmann oder Athlet",
       "represents": [
         "https://www.wikidata.org/wiki/Q1631102"
       ],

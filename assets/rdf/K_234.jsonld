@@ -11,6 +11,11 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_234",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Jüngling, nackt, Rundschild, Waffenlauf, Sport, ",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q3577",
+        "https://www.wikidata.org/wiki/Q2176287"
+      ],
       "type": "VisualItem"
     }
   ]

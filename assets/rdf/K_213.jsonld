@@ -2,16 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_213",
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_213",
       "label": "Attische Lekythos",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_213"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_213",
+      "rdfs:comment": "Rind, Rindvieh, Reiten/Reiter(in), Frau, Satyrn, Faune, Silene, Klassische Mythologie/Antike Geschichte",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q464091"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

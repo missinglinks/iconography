@@ -11,12 +11,14 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_214",
+      "rdfs:comment": "Götter (klass. Mythologie) beide Sieten Pferdeführender Jüngling in Rüstung, eventuell Dioskuren Kastor und Polydeukes, Beide Seiten, Figurenfries mit Faustkämpern und Ringern + Kampfrichter in der Palästra, Lotusbblüten, Palmetten",
       "represents": [
-        "https://www.wikidata.org/wiki/Q190103",
         "https://www.wikidata.org/wiki/Q647160",
-        "https://www.wikidata.org/wiki/Q756884",
+        "https://www.wikidata.org/wiki/Q190103",
+        "https://www.wikidata.org/wiki/Q677655",
         "https://www.wikidata.org/wiki/Q207427",
-        "https://www.wikidata.org/wiki/Q677655"
+        "https://www.wikidata.org/wiki/Q756884",
+        "https://www.wikidata.org/wiki/Q42486"
       ],
       "type": "VisualItem"
     }

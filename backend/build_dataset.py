@@ -111,7 +111,7 @@ def build_dataset():
     g = load_datasets()
     objects = [ x[0] for x in g.triples( (None, RDF.type, LA["ManMadeObject"]) ) ]
     for obj in objects:
-        print(obj)
+        #print(obj)
 
         #random_obj = random.choice(objects)
         label = [ g.value(obj, RDFS.label) ]

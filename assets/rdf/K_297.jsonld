@@ -3,6 +3,7 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_297",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Mann, Mäander, Musikinstrumente, unbekleidet, (fast) nackt zeigen, Umherziehen der Männer mit Wein und Musik nach einem Symposion",
       "represents": [
         "https://www.wikidata.org/wiki/Q898879",
         "https://www.wikidata.org/wiki/Q206883"

@@ -11,6 +11,10 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_252",
+      "rdfs:comment": "Eulen, Olivenzweig",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q37083"
+      ],
       "type": "VisualItem"
     }
   ]

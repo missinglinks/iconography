@@ -2,16 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_215",
+      "rdfs:comment": "menschl. Körper/Figur/Akt, Panther, Palmette (Ornament), Frau, Klassische Mythologie/Antike Geschichte",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q677655"
+      ],
+      "type": "VisualItem"
+    },
+    {
       "id": "https://www.lindenau-museum.de/antike/K_215",
       "label": "Schwarzfigurige attische Lekythos",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_215"
       ],
       "type": "ManMadeObject"
-    },
-    {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_215",
-      "type": "VisualItem"
     }
   ]
 }

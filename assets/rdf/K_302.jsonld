@@ -2,21 +2,23 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_302",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q677655",
-        "https://www.wikidata.org/wiki/Q898879",
-        "https://www.wikidata.org/wiki/Q1631102"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_302",
       "label": "Rotfigurige attische Lekythos",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_302"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_302",
+      "rdfs:comment": "Totenkult, Götter (klass. Mythologie) Siegesgöttin Nike, Ärmelchiton, Mantel , Haube, Palmetten, Stabornament, Mäander",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q165023",
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q1631102",
+        "https://www.wikidata.org/wiki/Q677655"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

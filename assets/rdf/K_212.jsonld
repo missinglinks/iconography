@@ -2,19 +2,25 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_212",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q898879"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_212",
       "label": "Schwarzfigurige attische Halsamphora",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_212"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_212",
+      "rdfs:comment": "menschl. Körper/Figur/Akt, Musiker, Musizieren, Geschichte des Bacchus (Dionysus), Mäander, Wein, Satyrn, Faune, Silene, männlicher Akt, Rückseite vermutlich Szene trojanischer Krieg: zwei Krieger auf vierspännigem Wagen, vermutlich Prinz Hektor und Wagenlenker Kebriones, Mann links könnte Prinz Paris sein, Frau rechts könnte Ehefrau des Hektor sein, Andromache",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q159666",
+        "https://www.wikidata.org/wiki/Q1164462",
+        "https://www.wikidata.org/wiki/Q203788",
+        "https://www.wikidata.org/wiki/Q42937",
+        "https://www.wikidata.org/wiki/Q464091"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

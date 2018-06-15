@@ -3,6 +3,11 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_274",
+      "rdfs:comment": "Götter (klass. Mythologei) Siegesgöttin Nike, Mäanderstreifen, Ärmelchiton, Fackeln, Haube, Rückseite: Frau, chiton, Fackellauf, Totenkult",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q165023",
+        "https://www.wikidata.org/wiki/Q1631102"
+      ],
       "type": "VisualItem"
     },
     {

@@ -2,16 +2,17 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_239",
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_239",
       "label": "Rotfiguriger attischer Askos",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_239"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_239",
+      "rdfs:comment": "Griechenland, Gesellschaft/gesellschaftliches Leben, Spendengefäß, Trankopfer, Hund, Widder",
+      "type": "VisualItem"
     }
   ]
 }

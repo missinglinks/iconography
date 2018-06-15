@@ -3,8 +3,12 @@
   "@graph": [
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_191",
+      "rdfs:comment": "menschl. Körper/Figur/Akt, Tanzen, Tänzer, Geschichte des Bacchus (Dionysus), Mäander, Wein, 11 tanzende Zecher, begleitet von einem Aulosspieler, vier trinken aus Schalen, zwei halten Kannen, rechts und links die Vorratsbehälter mit Wein, Dinoi, Flechtbänder, offene und geschlossene Lotusblüten, Sichel-Ornament",
       "represents": [
-        "https://www.wikidata.org/wiki/Q898879"
+        "https://www.wikidata.org/wiki/Q5601924",
+        "https://www.wikidata.org/wiki/Q207427",
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q6046828"
       ],
       "type": "VisualItem"
     },

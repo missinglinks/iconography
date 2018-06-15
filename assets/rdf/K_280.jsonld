@@ -2,19 +2,23 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_280",
-      "represents": [
-        "https://www.wikidata.org/wiki/Q898879"
-      ],
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_280",
       "label": "Rotfigurige attische Halsamphora",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_280"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_280",
+      "rdfs:comment": "Klassische Mythologie/Antike Geschichte, Geschichte des Bacchus (Dionysus), Behälter (Keramik): Dionysos, Stab mit Pinienzapfen, Altar, Kantharos, Trankspende, Mäander, Kanne, Satyrn, Faune, Silene, Wein",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q898879",
+        "https://www.wikidata.org/wiki/Q41680",
+        "https://www.wikidata.org/wiki/Q755706",
+        "https://www.wikidata.org/wiki/Q464091"
+      ],
+      "type": "VisualItem"
     }
   ]
 }

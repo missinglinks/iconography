@@ -2,16 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_334",
+      "rdfs:comment": "Katze, Mann, unbekleidet, (fast) nackt zeigen, Festlichkeiten",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q146"
+      ],
+      "type": "VisualItem"
+    },
+    {
       "id": "https://www.lindenau-museum.de/antike/K_334",
       "label": "Rotfiguriges apulisches Choën-Kännchen",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_334"
       ],
       "type": "ManMadeObject"
-    },
-    {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_334",
-      "type": "VisualItem"
     }
   ]
 }

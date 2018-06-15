@@ -11,7 +11,9 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_296",
+      "rdfs:comment": "Griechenland, Kline, Symposion, Gesellschaft/gesellschaftliches Leben, Musiker, Musikinstrumente, Mann, Frau, Säule, Pfeiler (Architektur)",
       "represents": [
+        "https://www.wikidata.org/wiki/Q922892",
         "https://www.wikidata.org/wiki/Q206883"
       ],
       "type": "VisualItem"

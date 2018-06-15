@@ -11,8 +11,11 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_244",
+      "rdfs:comment": "Spiegel, Götter Eros (klass. Mythologie), Blumen, Trommel, Olivenzweig",
       "represents": [
-        "https://www.wikidata.org/wiki/Q121973"
+        "https://www.wikidata.org/wiki/Q121973",
+        "https://www.wikidata.org/wiki/Q37083",
+        "https://www.wikidata.org/wiki/Q11404"
       ],
       "type": "VisualItem"
     }

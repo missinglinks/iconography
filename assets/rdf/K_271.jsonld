@@ -11,9 +11,11 @@
     },
     {
       "id": "https://www.lindenau-museum.de/antike/VisualItem/K_271",
+      "rdfs:comment": "Griechenland, Frau, Gesellschaft/gesellschaftliches Leben, Behälter (Textil): Tasche, Beutel, Sack, Prostitution, Mann, Mäander, Vorbereitungen zum Symposion",
       "represents": [
-        "https://www.wikidata.org/wiki/Q898879",
-        "https://www.wikidata.org/wiki/Q206883"
+        "https://www.wikidata.org/wiki/Q36633",
+        "https://www.wikidata.org/wiki/Q206883",
+        "https://www.wikidata.org/wiki/Q898879"
       ],
       "type": "VisualItem"
     }

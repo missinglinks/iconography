@@ -42,7 +42,7 @@ def object():
         elements.append(CONCEPTS[element])
     #for element in data["elements"]
     
-    im = Image.open("../../iconography-frontend/public/assets/{} Lindenau-Museum Altenburg.jpg".format(id_.split("/")[-1]),)
+    im = Image.open("../../iconography-frontend/public/assets/{}.jpg".format(id_.split("/")[-1]),)
     width, height = im.size
     print(width, height)
 
@@ -51,8 +51,8 @@ def object():
         "id": id_,
         "title": data["label"],
         "description": data["description"],
-        "image": "./assets/{} Lindenau-Museum Altenburg.jpg".format(id_.split("/")[-1]),
-        "image_s": "./assets/s/{} Lindenau-Museum Altenburg.jpg".format(id_.split("/")[-1]),
+        "image": "./assets/{}.jpg".format(id_.split("/")[-1]),
+        "image_s": "./assets/s/{}.jpg".format(id_.split("/")[-1]),
         "rdf_file": "./assets/rdf/{}.jsonld".format(id_.split("/")[-1]),
         "width": width,
         "height": height,

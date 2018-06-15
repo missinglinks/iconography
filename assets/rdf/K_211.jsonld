@@ -2,16 +2,20 @@
   "@context": "https://linked.art/ns/v1/linked-art.json",
   "@graph": [
     {
-      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_211",
-      "type": "VisualItem"
-    },
-    {
       "id": "https://www.lindenau-museum.de/antike/K_211",
       "label": "Schwarzfigurige attische Halsamphora",
       "shows": [
         "https://www.lindenau-museum.de/antike/VisualItem/K_211"
       ],
       "type": "ManMadeObject"
+    },
+    {
+      "id": "https://www.lindenau-museum.de/antike/VisualItem/K_211",
+      "rdfs:comment": "Vorderseite: griechischer Held Aias trägt den toten Achill aus der Schlacht, rechts Athena, links vermutlich Thetis, Rückseite: athenischer Held Theseus kämpft mit Minotaurus",
+      "represents": [
+        "https://www.wikidata.org/wiki/Q37122"
+      ],
+      "type": "VisualItem"
     }
   ]
 }
