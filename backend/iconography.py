@@ -50,8 +50,10 @@ def object():
     return jsonify({
         "id": id_,
         "title": data["label"],
+        "description": data["description"],
         "image": "./assets/{} Lindenau-Museum Altenburg.jpg".format(id_.split("/")[-1]),
         "image_s": "./assets/s/{} Lindenau-Museum Altenburg.jpg".format(id_.split("/")[-1]),
+        "rdf_file": "./assets/rdf/{}.jsonld".format(id_.split("/")[-1]),
         "width": width,
         "height": height,
         "elements": elements

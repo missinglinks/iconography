@@ -116,11 +116,14 @@ def build_dataset():
         #random_obj = random.choice(objects)
         label = [ g.value(obj, RDFS.label) ]
         vis_item = [ x[2] for x in g.triples( (obj, LA["shows"], None) ) ]
+        description = g.value(vis_item[0], RDFS.comment)
+        print(description)
         elements = [ str(x[2]) for x in g.triples( (vis_item[0], LA["represents"], None) )]
 
         dataset[obj] = {
             "label": label,
-            "elements": elements
+            "elements": elements,
+            "description": description
         }
 
         for element in elements:
